@@ -56,6 +56,7 @@ add_service_files(
   FILES
   getLocationFromPose.srv
   getLocationList.srv
+  setLocation.srv
 )
 
 ## Generate actions in the 'action' folder
